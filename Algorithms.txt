@@ -1,0 +1,13 @@
+
+ My Favourite Algorithms:
+ 
+ 1. PageRank Algorithm
+ 2. XGboost Algorithm
+ 3. Self Organization Maps
+ 4. Boltzman Machine
+ 5. Support Vector Machine
+ 6. Transformers
+ 7. LSTMs 
+ 8. CNNs 
+ 9. Positive Unlabeled learning Algorithm
+ 10. FAISS Algorithm
